@@ -1,2 +1,6 @@
 # PDFormer
 The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom Severity in Parkinson’s Disease" is coming.
+
+<p align="center">
+  <img src="finger_demo.gif" width="400"/>
+</p>
