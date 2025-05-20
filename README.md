@@ -23,7 +23,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
     </td>
       <td align="center">
       <img src="demos/rest_tremor_hand.gif" width="260"/><br/>
-      <b>Rostural Tremor (hand)</b>
+      <b>Rest Tremor (hand)</b>
     </td>
   </tr>
 </table>
