@@ -7,6 +7,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
 </figure>
 
 <p align="center">
+  ### Finger Tapping
   <img src="demos/finger_tapping.gif" width="400"/>
   <img src="demos/hand_movements.gif" width="400"/>
   <img src="demos/Pronation-supination.gif" width="400"/>
