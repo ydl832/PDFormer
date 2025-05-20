@@ -3,5 +3,5 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
 
 <p align="center">
   <img src="finger_demo.gif" width="400"/>
-  <img src="Postrual Tremor.gif" width="400"/>
+  <img src="Postural Tremor.gif" width="400"/>
 </p>
