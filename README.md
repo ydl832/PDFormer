@@ -32,6 +32,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   <tr>
     <td align="center">
       <img src="demos/pose_stability.gif" width="260"/><br/>
+      <img src="demos/Leg_agility.gif" width="260"/><br/>
       <b>Postural Stability</b>
     </td>
   </tr>
