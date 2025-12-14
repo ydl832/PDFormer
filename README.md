@@ -31,11 +31,11 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   <tr>
     <td align="center">
       <img src="demos/gait_03_3d.gif" width="260"/><br/>
-      <b>Finger Tapping</b>
+      <b>Gait</b>
     </td>
     <td align="center">
       <img src="demos/gait_04_3d.gif" width="260"/><br/>
-      <b>Hand Movements</b>
+      <b>Gait</b>
     </td>
   </tr>
 </table>
