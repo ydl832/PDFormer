@@ -77,7 +77,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
     </td>
     <td align="center">
       <img src="demos/freezing.gif" width="260"/><br/>
-      <b>Gait</b>
+      <b>Freezing of Gait</b>
     </td>
   </tr>
 </table>
