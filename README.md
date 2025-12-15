@@ -4,38 +4,38 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   <tr>
     <td align="center">
       <img src="demos/0_3d.gif" width="260"/><br/>
-      <b>Finger Tapping</b>
+      <b>Finger Tapping (Score 0)</b>
     </td>
     <td align="center">
       <img src="demos/1_3d.gif" width="260"/><br/>
-      <b>Hand Movements</b>
+      <b>Finger Tapping (Score 1)</b>
     </td>
     <td align="center">
       <img src="demos/2_3d.gif" width="260"/><br/>
-      <b>Hand Movements</b>
+      <b>Finger Tapping (Score 2)</b>
     </td>
     <td align="center">
       <img src="demos/3_3d.gif" width="260"/><br/>
-      <b>Hand Movements</b>
+      <b>Finger Tapping (Score 3)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="demos/0_2d.gif" width="260"/><br/>
-      <b>Pronation-Supination</b>
+      <b>Finger Tapping (Score 0)</b>
     </td>
     <td align="center">
       <img src="demos/1_2d.gif" width="260"/><br/>
-      <b>Postural Tremor</b>
+      <b>Finger Tapping (Score 1)</b>
     </td>
       <td align="center">
       <img src="demos/2_2d.gif" width="260"/><br/>
-      <b>Rest Tremor (hand)</b>
+      <b>Finger Tapping (Score 2)</b>
     </td>
     </td>
       <td align="center">
       <img src="demos/3_2d.gif" width="260"/><br/>
-      <b>Rest Tremor (hand)</b>
+      <b>Finger Tapping (Score 3)</b>
     </td>
   </tr>
 </table>
