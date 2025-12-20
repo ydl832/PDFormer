@@ -60,7 +60,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   </tr>
 </table>
 <table>
-  Some 3D pose estimation example for hand-related motor symptoms
+  Examples of 3D hand pose estimations for detecting motor symptoms in the hands.
   <tr>
     <td align="center">
       <img src="demos/finger_tapping.gif" width="260"/><br/>
@@ -87,7 +87,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   </tr>
 </table>
 <table>
-  Some 3D pose estimation example for whole-body related motor symptoms
+  Examples of 3D whole-body pose estimations for detecting motor symptoms.
   <tr>
     <td align="center">
       <img src="demos/gait_03_3d.gif" width="260"/><br/>
@@ -104,7 +104,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   </tr>
 </table>
 <table>
-  Some 2D pose estimation example for half-body or multi-person related motor symptoms
+  Examples of 2D pose estimation for half-body and multi-person motor symptom assessment, such as upper body bradykinesia or group gait analysis.
   <tr>
     <td align="center">
       <img src="demos/Leg_agility.gif" width="260"/><br/>
