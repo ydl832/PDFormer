@@ -23,39 +23,39 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   <tr>
     <td align="center">
       <img src="demos/1_3d.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 0)</b>
+      <b>3D skeleton motion (Score 0)</b>
     </td>
     <td align="center">
       <img src="demos/0_3d.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 1)</b>
+      <b>3D skeleton motion (Score 1)</b>
     </td>
       <td align="center">
       <img src="demos/2_3d.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 2)</b>
+      <b>3D skeleton motion (Score 2)</b>
     </td>
     </td>
       <td align="center">
       <img src="demos/3_3d.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 3)</b>
+      <b>3D skeleton motion (Score 3)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="demos/0_motion.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 0)</b>
+      <b>Dinov2 motion (Score 0)</b>
     </td>
     <td align="center">
       <img src="demos/1_motion.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 1)</b>
+      <b>Dinov2 motion (Score 1)</b>
     </td>
       <td align="center">
       <img src="demos/2_motion.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 2)</b>
+      <b>Dinov2 motion (Score 2)</b>
     </td>
     </td>
       <td align="center">
       <img src="demos/3_motion.gif" width="260"/><br/>
-      <b>Finger Tapping (Score 3)</b>
+      <b>Dinov2 motion (Score 3)</b>
     </td>
   </tr>
 </table>
