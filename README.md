@@ -21,11 +21,11 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   </tr>
   <tr>
     <td align="center">
-      <img src="demos/0_3d.gif" width="260"/><br/>
+      <img src="demos/1_3d.gif" width="260"/><br/>
       <b>Finger Tapping (Score 0)</b>
     </td>
     <td align="center">
-      <img src="demos/1_3d.gif" width="260"/><br/>
+      <img src="demos/0_3d.gif" width="260"/><br/>
       <b>Finger Tapping (Score 1)</b>
     </td>
       <td align="center">
