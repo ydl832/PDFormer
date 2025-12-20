@@ -1,7 +1,7 @@
 # PDFormer
 The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom Severity in Parkinson’s Disease" is coming.
 <table>
-  Some finger tapping examples from PDMotorDB Dataset
+  Examples of finger-tapping sequences from the PDMotorDB dataset. The labeled scores are taken directly from the original records in the dataset.
   <tr>
     <td align="center">
       <img src="demos/0_raw.gif" width="260"/><br/>
