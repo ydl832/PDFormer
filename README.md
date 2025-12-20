@@ -128,7 +128,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
       <img src="demos/yande_arising_motion.gif" width="260"/><br/>
       <b>Arising from Chair</b>
     <td align="center">
-      <img src="demos/yande_res_motion.gif" width="260"/><br/>
+      <img src="demos/yande_rest_motion.gif" width="260"/><br/>
       <b>Rest tremor</b>
     </td>
     <td align="center">
