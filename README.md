@@ -104,7 +104,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
   </tr>
 </table>
 <table>
-  Examples of 2D pose estimation for half-body and multi-person motor symptom assessment, such as upper body bradykinesia or group gait analysis.
+  Examples of 2D pose estimation for half-body and multi-person motor symptom assessment, such as Leg agility or Postural Stability.
   <tr>
     <td align="center">
       <img src="demos/Leg_agility.gif" width="260"/><br/>
@@ -115,6 +115,33 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
     <td align="center">
       <img src="demos/pose_stability.gif" width="260"/><br/>
       <b>Postural Stability</b>
+    </td>
+  </tr>
+</table>
+<table>
+  Examples of DinoV2 motion features for other motor symptoms.
+  <tr>
+    <td align="center">
+      <img src="demos/yande_leg_motion.gif" width="260"/><br/>
+      <b>Leg agility</b>
+    <td align="center">
+      <img src="demos/yande_arising_motion.gif" width="260"/><br/>
+      <b>Arising from Chair</b>
+    <td align="center">
+      <img src="demos/yande_res_motion.gif" width="260"/><br/>
+      <b>Rest tremor</b>
+    </td>
+    <td align="center">
+      <img src="demos/yande_3_motion.gif" width="260"/><br/>
+      <b>Postural tremor</b>
+    </td>
+    <td align="center">
+      <img src="demos/yande_pos_tre_motion.gif" width="260"/><br/>
+      <b>Postural tremor</b>
+    </td>
+    <td align="center">
+      <img src="demos/yande_2_motion.gif" width="260"/><br/>
+      <b>Pronation-supination</b>
     </td>
   </tr>
 </table>
