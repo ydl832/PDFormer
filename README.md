@@ -1,7 +1,7 @@
 # PDFormer
 The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom Severity in Parkinson’s Disease" is coming.
 <table>
-  Some examples from PDMotorDB Dataset
+  Some finger tapping examples from PDMotorDB Dataset
   <tr>
     <td align="center">
       <img src="demos/0_raw.gif" width="260"/><br/>
