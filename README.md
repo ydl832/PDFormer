@@ -3,6 +3,24 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
 <table>
   <tr>
     <td align="center">
+      <img src="demos/0_raw.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 0)</b>
+    </td>
+    <td align="center">
+      <img src="demos/1_raw.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 1)</b>
+    </td>
+    <td align="center">
+      <img src="demos/2_raw.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 2)</b>
+    </td>
+    <td align="center">
+      <img src="demos/3_raw.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 3)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="demos/0_3d.gif" width="260"/><br/>
       <b>Finger Tapping (Score 0)</b>
     </td>
@@ -10,31 +28,51 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
       <img src="demos/1_3d.gif" width="260"/><br/>
       <b>Finger Tapping (Score 1)</b>
     </td>
-    <td align="center">
+      <td align="center">
       <img src="demos/2_3d.gif" width="260"/><br/>
       <b>Finger Tapping (Score 2)</b>
     </td>
-    <td align="center">
+    </td>
+      <td align="center">
       <img src="demos/3_3d.gif" width="260"/><br/>
       <b>Finger Tapping (Score 3)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="demos/0_2d.gif" width="260"/><br/>
+      <img src="demos/0_feature.gif" width="260"/><br/>
       <b>Finger Tapping (Score 0)</b>
     </td>
     <td align="center">
-      <img src="demos/1_2d.gif" width="260"/><br/>
+      <img src="demos/1_feature.gif" width="260"/><br/>
       <b>Finger Tapping (Score 1)</b>
     </td>
       <td align="center">
-      <img src="demos/2_2d.gif" width="260"/><br/>
+      <img src="demos/2_feature.gif" width="260"/><br/>
       <b>Finger Tapping (Score 2)</b>
     </td>
     </td>
       <td align="center">
-      <img src="demos/3_2d.gif" width="260"/><br/>
+      <img src="demos/3_feature.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 3)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="demos/0_motion.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 0)</b>
+    </td>
+    <td align="center">
+      <img src="demos/1_motion.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 1)</b>
+    </td>
+      <td align="center">
+      <img src="demos/2_motion.gif" width="260"/><br/>
+      <b>Finger Tapping (Score 2)</b>
+    </td>
+    </td>
+      <td align="center">
+      <img src="demos/3_motion.gif" width="260"/><br/>
       <b>Finger Tapping (Score 3)</b>
     </td>
   </tr>
