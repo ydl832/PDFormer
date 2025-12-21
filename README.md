@@ -137,7 +137,7 @@ The code for "PDFormer: A Multimodal Transformer for Quantifying Motor Symptom S
     </td>
     <td align="center">
       <img src="demos/yande_pos_tre_motion.gif" width="260"/><br/>
-      <b>Postural tremor</b>
+      <b>Kinetic tremor</b>
     </td>
     <td align="center">
       <img src="demos/yande_2_motion.gif" width="260"/><br/>
